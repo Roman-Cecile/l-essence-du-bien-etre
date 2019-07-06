@@ -1,4 +1,6 @@
-
+.image-jb{
+	background-image: url('Jumbotron.jpg');
+}
 
 .place-center {
 	display: flex;
