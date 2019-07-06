@@ -1,11 +1,4 @@
-.jumbotron {
-  height: 500px;
-  display: flex;
-  align-items: center;
-  background: url("http://www.wallpaperstunnel.com/wp-content/uploads/2016/02/Green-Background-Screensaver-HD-Wallpapers.jpg") center center;
-  background-size: cover;
-  margin: 100px 0px;
-}
+
 
 .place-center {
 	display: flex;
